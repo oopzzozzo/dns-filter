@@ -16,5 +16,5 @@
 0.0.0.0 a.line.me
 0.0.0.0 legy.line-apps.com iOS 套用後從其他 App 分享至 LINE 會失敗
 0.0.0.0 legy.line-apps.com.akadns.net iOS 套用後從其他 App 分享至 LINE 會失敗
+0.0.0.0 legy-backup.line-apps.com iOS 套用後從其他 App 分享至 LINE 會失敗
 0.0.0.0 legy-jp-addr-ds.line-apps.com iOS 套用後從其他 App 分享至 LINE 會失敗
-                            
