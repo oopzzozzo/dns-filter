@@ -1,8 +1,8 @@
-# v2025.03.29-1
-
-# 額外 LINE 規則
-# https://mrpeelblog.com/posts/line-adblock/
-
+! oopzzozzo
+! Title: oopzzozzo LINE Block List
+! URL: <https://github.com/oopzzozzo/dns-filter>
+! Version: 2025.0329-2
+! --------------------------------------------------
 0.0.0.0 linecrs.line-scdn.net
 0.0.0.0 crs-event.line.me
 0.0.0.0 voom-assets.line-scdn.net
@@ -13,10 +13,7 @@
 0.0.0.0 uts-front.line-apps.com
 0.0.0.0 ad.line-scdn.net
 0.0.0.0 a.line.me
-0.0.0.0 legy.line-apps.com iOS 套用後從其他 App 分享至 LINE 會失敗
-0.0.0.0 legy.line-apps.com.akadns.net iOS 套用後從其他 App 分享至 LINE 會失敗
-0.0.0.0 legy-backup.line-apps.com iOS 套用後從其他 App 分享至 LINE 會失敗
-0.0.0.0 legy-jp-addr-ds.line-apps.com iOS 套用後從其他 App 分享至 LINE 會失敗
-
-# 0.0.0.0 obs.line-scdn.net # obs.line-scdn.net/r
-
+0.0.0.0 legy.line-apps.com
+0.0.0.0 legy.line-apps.com.akadns.net
+0.0.0.0 legy-backup.line-apps.com
+0.0.0.0 legy-jp-addr-ds.line-apps.com
